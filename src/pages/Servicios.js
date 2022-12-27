@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Servicios.sass"
 
 const servicios = () => {
   return (
