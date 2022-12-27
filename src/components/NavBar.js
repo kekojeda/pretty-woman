@@ -1,9 +1,8 @@
 import React from "react";
 
-
-function NavBar() {
+const NavBar = () => {
   return (
-    <>
+    
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">Blooma</a>
@@ -31,9 +30,8 @@ function NavBar() {
         </div>
       </div>
     </nav>
-      
-    </>
-  );
+    
+  )
 }
 
-export { NavBar };
+export default NavBar

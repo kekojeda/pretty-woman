@@ -1,12 +1,13 @@
 
-import Footer from "./components/Footer";
-import NavBar from "./components/NavBar";
+import Footer from "./components/Footer"
+import NavBar from "./components/NavBar"
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from './pages/Home';
 import Contacto from './pages/Contacto';
 import Servicios from './pages/Servicios';
 import Productos from './pages/Productos';
 import SobreMi from './pages/SobreMi';
+import Detail from './pages/Detail'
 
 function App() {
   return (
@@ -26,9 +27,7 @@ function App() {
           <Route path='/contacto' element={ <Contacto/> }/>
         </Routes>
         <Footer/>
-      </BrowserRouter>    
-                  
-     
+      </BrowserRouter> 
     </>
   );
 }
