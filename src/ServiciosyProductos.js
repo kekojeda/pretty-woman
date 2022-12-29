@@ -5,7 +5,7 @@ const serviciosYProductos= [
         subcategoria: "Depilacion",
         descripcion: "Los dermatólogos recomiendan la depilación láser para combatir determinadas afecciones cutáneas como foliculitis e hirsutismo. Entre los principales beneficios de la depilación láser, este es el más determinante para la salud de la piel. Ya que ayuda a eliminar afecciones molestas e incómodas. Como asi también eliminar el vello DEFINITIVAMENTE",
         id:01,
-        imagen:
+        imagen:"../public/images/depi.webp"
     },
     {
         nombre: "Lash lifting",
@@ -13,7 +13,7 @@ const serviciosYProductos= [
         subcategoria:"Pestañas",
         descripcion:"Es una solución rápida que reemplaza el arqueador y el rimmel. Ayuda a que tus pestañas estén más largas y con más volumen. Este tratamiento es ideal para elevar y lograr una curvatura perfecta de pestañas de manera natural logrando una mirada más sensual y hermosa.",
         id:02,
-        imagen:
+        imagen:"../public/images/lash-lifting.jpeg"
     },
     {
         nombre: "Pestañas pelo por pelo",
@@ -21,7 +21,7 @@ const serviciosYProductos= [
         subcategoria:"Pestañas",
         descripcion:"Se trata de una colocación de pestañas postizas que se realizan sobre cada pestaña, logrando un efecto de ojo maquillado 24 horas. Lleva un mantenimiento mensual ya que el ciclo de una pestaña natural es de aproximadamente 1 mes y es por ello que se renuevan y van cayendo de a poco.",
         id:03,
-        imagen:
+        imagen:"../public/images/pelo-por-pelo.jpeg"
     },
     {
         nombre:"Laminado de cejas",
@@ -53,7 +53,7 @@ const serviciosYProductos= [
         subcategoria:"Tratamientos faciales",
         descripcion:"Esta técnica específica que se realiza en centros de estética está indicada para mejorar la salud y apariencia tisular. Eliminando los puntos negros y células muertas, consiguiendo una piel sana y permeable para incorporar los principios activos que tu biotipo de piel necesita.",
         id:07,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Dermaplaning",
@@ -141,7 +141,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"El esmaltado semipermanente es un sistema de duración corta, entorno 2-3 semanas, sin hacer extensión de la uña, es decir, no se puede alargar la uña con este tipo de esmalte",
         id:18,
-        imagen:
+        imagen:"../public/images/semipermanente.webp"
     },
     {
         nombre:"Nivelacion",
@@ -165,7 +165,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"Las uñas esculpidas son extensiones que se construyen a partir de la uña natural con material acrílico, gel o poligel. Estas permiten restaurar y reconstruir uñas mordidas o simplemente, lucir uñas más largas. Algo que las hace sumamente atractivas, ya que se puede moldear la forma y longitud para obtener varios estilos.  El mantenimiento de las uñas acrílicas se realiza cada 15 a 20 días, siempre dependiendo del crecimiento de tu uña",
         id:21,
-        imagen:
+        imagen:"../public/images/esculpidas.jfif"
     },
     {
         nombre:"Belleza de pies",
@@ -188,20 +188,20 @@ const serviciosYProductos= [
         categoria: "Productos",
         descripcion:"GEL FORTALECEDOR con BIOTINA Beneficios: Mejora el crecimiento y el grosor de las uñas débiles, mordidas y quebradizas. Además, estimula la fase de crecimiento de pestañas y cejas. Aplicación: Sobre las uñas, sin esmalte, aplicar una gota y masajear hasta total absorción. Realizar el tratamiento durante 7 días, repetir cada 2 semanas. En pestañas y cejas, aplicarcon un pincel fino sobre el crecimiento. Activos principales: Biotina, Alantoína. SÉRUM IONIZABLE. Presentación: Gotero 20 ml. FORTIFICADOR ACTIVO GEL DE CEJAS Y PESTAÑAS Contiene un complejo redensificador bioactivo (Capilmax y Biotina) que favorece el crecimiento y engrosamiento del pelo. Arquea y/o disciplina los pelos de pestañas y cejas otorgándoles una hermosa apariencia y luminosidad.",
         id:24,
-        imagen:
+        imagen:"../public/images/combo-laca.webp"
     },
     {
         nombre:"Exel Promoter Liposomas Crecimiento Pestañas Y Cejas Spray",
         categoria: "Productos",
         descripcion:"PROMOTER Estimula el crecimiento natural de pestañas y cejas. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas. Combate los radicales libres gracias a su acción antioxidante. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refresca y ayuda a evitar la resequedad y la aparición de finas arrugas.",
         id:25,
-        imagen:
+        imagen:"../public/images/excel-promoter.webp"
     },
     {
         nombre:"Promoter Exel Limpieza Pestañas Espuma Micelar Ojos x50ml",
         categoria: "Productos",
         descripcion:"Suave espuma, ideal para la higiene del área de contorno de ojos, pestañas, extensiones de pestañas y cejas. Puede ser utilizada además como desmaquillante. Otorga suavidad y agradable efecto sensorial. Adicionada con Liposomas encapsulando activos anti-irritantes, extractos de Té verde y Hamamelis. Composición libre de aceites, no deja residuo y no irrita",
         id:26,
-        imagen:
+        imagen:"../public/images/espuma-promoter.webp"
     }
 ]
