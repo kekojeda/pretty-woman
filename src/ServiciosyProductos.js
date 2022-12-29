@@ -205,3 +205,5 @@ const serviciosYProductos= [
         imagen:"../public/images/espuma-promoter.webp"
     }
 ]
+
+export default serviciosYProductos
