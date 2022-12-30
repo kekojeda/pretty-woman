@@ -22,14 +22,19 @@ const Footer = () => {
           <div className="col-4">
             <h5>Contactanos</h5>
             <ul className="nav flex-column">
-              <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><FaWhatsapp/> XXXXXXXX</a></li>
+              <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><FaWhatsapp/> +54 9 1123886544</a></li>
             </ul>
+          </div>
+          <div className="col-4">
+            <h5>Preguntas frecuentes</h5>            
           </div>
           <div className="col-4">
             <h5>Te esperamos...</h5>
             <ul className="nav flex-column">
-              <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><MdLocationOn/> Dirección: xxxxxxx</a></li>
-              <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><BsClock/> Horarios: xx a xx hs</a></li>
+              <li className="nav-item mb-2"><MdLocationOn/> Dirección: Islandia 26. Entre Av. Gral Hornos y Darwin</li>
+              <li className="nav-item mb-2"><BsClock/> Horarios:</li>
+              <li className="nav-item mb-2"><BsClock/> Martes a viernes de 14 a 20 hs</li>
+              <li className="nav-item mb-2"><BsClock/> Sábados de 10 a 16 hs</li>
             </ul>
           </div>
         </div>

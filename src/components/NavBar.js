@@ -21,7 +21,7 @@ const NavBar = () => {
               <a className="nav-link mx-3" href="#">Productos</a>
             </li>            
             <li className="nav-item">
-              <a className="nav-link mx-3" href="#">Sobre mí</a>
+              <a className="nav-link mx-3" href="#">FAQS</a>
             </li>            
             <li className="nav-item">
               <a className="nav-link mx-3" href="#">Contacto</a>
