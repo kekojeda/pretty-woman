@@ -6,8 +6,9 @@ import Home from './pages/Home';
 import Contacto from './pages/Contacto';
 import Servicios from './pages/Servicios';
 import Productos from './pages/Productos';
-import SobreMi from './pages/SobreMi';
-import Detail from './pages/Detail'
+import Faqs from './pages/Faqs';
+import "./App.sass"
+
 
 function App() {
   return (
@@ -18,12 +19,10 @@ function App() {
         <Routes>
           <Route path='/' element={ <Home/> }/>
           <Route path='/blooma' element={ <Home/> }/>
+          <Route path='/home' element={ <Home/> }/>
           <Route path='/productos' element={ <Productos/> }/>
           <Route path='/servicios' element={ <Servicios/> }/>
-          <Route path='/category/:category' element={<Productos/>}/>
-          <Route path='/productos/:id' element={<Detail/>}/>
-          <Route path='/servicios/:id' element={<Detail/>}/>
-          <Route path='/sobremi' element={ <SobreMi/> }/>
+          <Route path='/faqs' element={ <Faqs/> }/>
           <Route path='/contacto' element={ <Contacto/> }/>
         </Routes>
         <Footer/>

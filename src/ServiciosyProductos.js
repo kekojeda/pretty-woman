@@ -4,7 +4,7 @@ const serviciosYProductos= [
         categoria: "Servicios",
         subcategoria: "Depilacion",
         descripcion: "Los dermatólogos recomiendan la depilación láser para combatir determinadas afecciones cutáneas como foliculitis e hirsutismo. Entre los principales beneficios de la depilación láser, este es el más determinante para la salud de la piel. Ya que ayuda a eliminar afecciones molestas e incómodas. Como asi también eliminar el vello DEFINITIVAMENTE",
-        id:01,
+        id:1,
         imagen:"../public/images/depi.webp"
     },
     {
@@ -12,7 +12,7 @@ const serviciosYProductos= [
         categoria: "Servicios",
         subcategoria:"Pestañas",
         descripcion:"Es una solución rápida que reemplaza el arqueador y el rimmel. Ayuda a que tus pestañas estén más largas y con más volumen. Este tratamiento es ideal para elevar y lograr una curvatura perfecta de pestañas de manera natural logrando una mirada más sensual y hermosa.",
-        id:02,
+        id:2,
         imagen:"../public/images/lash-lifting.jpeg"
     },
     {
@@ -20,7 +20,7 @@ const serviciosYProductos= [
         categoria:"Servicios",
         subcategoria:"Pestañas",
         descripcion:"Se trata de una colocación de pestañas postizas que se realizan sobre cada pestaña, logrando un efecto de ojo maquillado 24 horas. Lleva un mantenimiento mensual ya que el ciclo de una pestaña natural es de aproximadamente 1 mes y es por ello que se renuevan y van cayendo de a poco.",
-        id:03,
+        id:3,
         imagen:"../public/images/pelo-por-pelo.jpeg"
     },
     {
@@ -28,31 +28,31 @@ const serviciosYProductos= [
         categoria: "Servicios",
         subcategoria:"Cejas",
         descripcion:"Este tratamiento es ideal para el “relleno natural de cejas” como así está indicado para aquellas cejas rebeldes, ya que las hace manejables con el fin de definir la forma deseada y permanente en la ceja.",
-        id:04,
-        imagen:
+        id:4,
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Diseño y perfilado de cejas",
         categoria: "Servicios",
         subcategoria:"Cejas",
         descripcion:"Es un servicio personalizado de depilación que consiste en darle forma correcta a las cejas respetando la forma natural de la misma.",
-        id:05,
-        imagen:
+        id:5,
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Relleno de cejas",
         categoria: "Servicios",
         subcategoria:"Cejas",
         descripcion:"Se realiza con un pigmento orgánico llamado Henna que se utiliza para el tintado de cejas. Es un tratamiento natural y no permanente.",
-        id:06,
-        imagen:
+        id:6,
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Limpieza profunda",
         categoria: "Servicios",
         subcategoria:"Tratamientos faciales",
         descripcion:"Esta técnica específica que se realiza en centros de estética está indicada para mejorar la salud y apariencia tisular. Eliminando los puntos negros y células muertas, consiguiendo una piel sana y permeable para incorporar los principios activos que tu biotipo de piel necesita.",
-        id:07,
+        id:7,
         imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
@@ -60,16 +60,16 @@ const serviciosYProductos= [
         categoria: "Servicios",
         subcategoria:"Tratamientos faciales",
         descripcion:"Es un excelente método para exfoliar la piel y ayudar a que genera nuevas células. Disminuye la apariencia de las arrugas finas y cicatrices de acné. El resultado será una piel extremadamente suave y luminosa",
-        id:08,
-        imagen:
+        id:8,
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Nutricion anti age",
         categoria: "Servicios",
         subcategoria:"Tratamientos faciales",
         descripcion:"Esta práctica está centrada en devolver la juventud al rostro y cuerpo y disimular el proceso de envejecimiento a través de la reducción de manchas y arrugas, mejorando la calidad de la piel aportando luminosidad y elasticidad y en algunos casos eliminar el vello.",
-        id:09,
-        imagen:
+        id:9,
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Lifting facial sin cirugia",
@@ -77,63 +77,63 @@ const serviciosYProductos= [
         subcategoria:"Tratamientos faciales",
         descripcion:"La radiofrecuencia facial es una técnica de medicina estética dirigida a tratar la laxitud de la piel, produce un efecto similar al lifting pero sin cirugía. Es un procedimiento adecuado para pacientes con flacidez leve o moderada de los tejidos faciales. Trae como resultado una piel más tersa y firme, consiguiendo disimular pequeñas arrugas en la cara. Además, consigue aportar una mayor luminosidad al rostro para quitar ese aspecto de piel cansada.",
         id:10,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Circuito reductor DETOX",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:11,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Circuito modelador",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:12,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Circuito tonificador",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:13,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Circuito anti celulitis",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:14,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Chau aranitas",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:15,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Chau piernas cansadas",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:16,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Chau flacidez",
         categoria: "Servicios",
         subcategoria:"Tratamientos corporales",
-        descripcion:,
+        descripcion:"",
         id:17,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Esmaltado semipermanente",
@@ -149,7 +149,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"Es una técnica que se práctica sobre la uña natural destinada a crear una nivelacion y uña perfecta. Tiene algunas diferencias en relación al Kapping (se realiza sin gel de construcción, ni acrílico ni poligel y no necesita del limado)",
         id:19,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Kapping",
@@ -157,7 +157,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"El Kapping consiste en aplicar una fina capa de acrílico o gel fortificador sobre la uña que actuará como una barrera protectora. A diferencia de las uñas esculpidas, este baño en gel kapping no alarga la uña natural sino que acompaña el crecimiento de la misma y dura hasta 20 días",
         id:20,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Esculpidas",
@@ -173,7 +173,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"Consiste en la realización de una limpieza, exfoliación, empuje o eliminación de cutícula, limado y esmaltado de uñas semipermanente.",
         id:22,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Reconstruccion de unias con hongos",
@@ -181,7 +181,7 @@ const serviciosYProductos= [
         subcategoria:"Manicuria",
         descripcion:"",
         id:23,
-        imagen:
+        imagen:"../public/images/limpieza-facial.jpeg"
     },
     {
         nombre:"Laca Gel Fortalecedor Biotina Y Fortificador Pestañas",
