@@ -2,11 +2,13 @@
 import Footer from "./components/Footer"
 import NavBar from "./components/NavBar"
 import {BrowserRouter, Routes, Route} from "react-router-dom";
-import Home from './pages/home/Home';
-import Contacto from './pages/contacto/Contacto';
-import Servicios from './pages/servicios/Servicios';
-import Productos from './pages/productos/Productos';
-import Faqs from './pages//faqs/Faqs';
+
+import Home from './pages/Home';
+import Contacto from './pages/Contacto';
+import Servicios from './pages/Servicios';
+import Productos from './pages/Productos';
+import Faqs from './pages/Faqs';
+
 import "./App.sass"
 
 
